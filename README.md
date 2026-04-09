@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+I am a Full Stack Web Developer with a strong technical foundation in building complete web applications, from modern user interfaces to backend logic and database-driven systems. I focus on creating practical, scalable, and maintainable solutions that work in real-world environments, not just theoretical or academic use cases.<br><br>I have hands-on experience working with JavaScript (ES6+), React, Node.js, Java, and Python, along with designing and consuming RESTful APIs and integrating them with databases such as Oracle, MySQL, and MongoDB. This full-cycle experience allows me to understand how different parts of an application interact and how to design systems that are efficient, reliable, and easy to extend.<br><br>My educational background through Pearson BTEC and project-based learning helped me develop strong system thinking and problem-solving skills. I approach software development as an end-to-end process that includes requirements analysis, solution design, implementation, testing, and continuous improvement, rather than focusing on isolated features or technologies.<br><br>In addition to technical skills, I have strong technical communication and presentation abilities, having presented complex projects to senior executives and industry leaders. This experience strengthened my ability to explain technical concepts clearly to non-technical stakeholders, which I consider an essential skill for any successful full stack developer working in professional teams.<br><br>I am currently focused on deepening my expertise in Full Stack Web Development, building clean and scalable applications, and continuously improving my problem-solving mindset. My goal is to grow as a developer who delivers real value through well-structured code, thoughtful system design, and clear communication.<br><br>If you are looking for a Full Stack Web Developer who combines solid technical skills, fast learning ability, and a strong understanding of complete systems, I would be glad to connect and discuss potential opportunities or collaborations.
 
-<!--
-**A7medAbde7hamid/A7medAbde7hamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iahmedtech) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iahmedtech) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@iahmedtech) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=A7medAbde7hamid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=A7medAbde7hamid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=A7medAbde7hamid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=A7medAbde7hamid&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=A7medAbde7hamid&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
